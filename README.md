@@ -1,1 +1,1 @@
-This project is about data structures(stack and queue)
+0x19. C - Stacks, Queues - LIFO, FIFO
